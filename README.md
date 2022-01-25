@@ -16,7 +16,7 @@
 <a href="https://instagram.com/theinfinox">
   <img align="left" alt="theinfinox Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/theinfinox">
+<a href="https://www.facebook.com/theinfinox.me">
   <img align="left" alt="theinfinox Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
