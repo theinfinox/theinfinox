@@ -1,4 +1,4 @@
-### Hi there 👋 it's theinfinox here
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%2394F745&lines=It's+the+theinfinox+here!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinfinox&label=Views&color=blue&style=plastic" alt="theinfinox" /> </p>
 
 <a href="https://twitter.com/theinfinox">
