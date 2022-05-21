@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about technology<hr>
 
 <br>
-<script src="https://tryhackme.com/badge/956593"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/theinfinox.png" alt="TryHackMe">
 
