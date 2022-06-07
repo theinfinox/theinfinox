@@ -28,8 +28,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on IT Operations<br>
-- 🌱 I’m currently learning flutter<br>
-- 🤔 I’m looking for help with flutter<br>
+- 🌱 I’m currently learning backend<br>
+- 🤔 I’m looking for help with APIs<br>
 - 💬 Ask me about technology<hr>
 
 <br>
