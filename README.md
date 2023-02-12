@@ -1,3 +1,6 @@
+
+<a href="https://app.daily.dev/theinfinox"><img src="https://api.daily.dev/devcards/c83945b395e44d2e9906e1b582f345b8.png?r=wcq" width="400" alt="Govind SR's Dev Card"/></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%2394F745&lines=It's+the+theinfinox+here!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinfinox&label=Views&color=blue&style=plastic" alt="theinfinox" /> </p>
 
