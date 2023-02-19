@@ -5,23 +5,38 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinfinox&label=Views&color=blue&style=plastic" alt="theinfinox" /> </p>
 
 <a href="https://twitter.com/theinfinox">
-  <img align="left" alt="theinfinox Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  
+  <img align="left" alt="theinfinox Twitter" width="35px" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
+  
 </a>
 <a href="https://linkedin.com/in/theinfinox">
-  <img align="left" alt="theinfinox Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
+  <img align="left" alt="theinfinox LinkedIn" width="35px" src="https://img.icons8.com/color/48/null/linkedin.png"/>
+  
 </a>
 <a href="https://github.com/theinfinox">
-  <img align="left" alt="theinfinox Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  
+  <img align="left" alt="theinfinox GitHub" width="35px" src="https://img.icons8.com/color/48/null/github--v1.png"/>
+  
 </a>
 <a href="https://t.me/theinfinox">
-  <img align="left" alt="theinfinox Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  
+  <img align="left" alt="theinfinox Telegram" width="35px" src="https://img.icons8.com/color/48/null/telegram-app--v1.png"/>
+  
 </a>
 <a href="https://instagram.com/theinfinox">
-  <img align="left" alt="theinfinox Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  
+  <img align="left" alt="theinfinox Instagram" width="35px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/>
+  
 </a>
 <a href="https://www.facebook.com/theinfinox.me">
   
- <img align="left" alt="theinfinox Instagram" width="35px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
+ <img align="left" alt="theinfinox Facebook" width="35px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
+  
+</a>
+<a href="https://www.yotube.com/@theinfinox">
+  
+ <img align="left" alt="theinfinox YouTube" width="35px" src="https://img.icons8.com/color/48/null/youtube-play.png"/>
   
 </a>
 <br>
