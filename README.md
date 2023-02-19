@@ -6,47 +6,43 @@
 
 <a href="https://twitter.com/theinfinox">
   
-  <img align="left" alt="theinfinox Twitter" width="35px" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
+  <img align="left" alt="theinfinox Twitter" width="30px" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
   
 </a>
 <a href="https://linkedin.com/in/theinfinox">
   
-  <img align="left" alt="theinfinox LinkedIn" width="35px" src="https://img.icons8.com/color/48/null/linkedin.png"/>
+  <img align="left" alt="theinfinox LinkedIn" width="30px" src="https://img.icons8.com/color/48/null/linkedin.png"/>
   
 </a>
 <a href="https://github.com/theinfinox">
   
-  <img align="left" alt="theinfinox GitHub" width="35px" src="https://img.icons8.com/color/48/null/github--v1.png"/>
+  <img align="left" alt="theinfinox GitHub" width="30px" src="https://img.icons8.com/color/48/null/github--v1.png"/>
   
 </a>
 <a href="https://t.me/theinfinox">
   
-  <img align="left" alt="theinfinox Telegram" width="35px" src="https://img.icons8.com/color/48/null/telegram-app--v1.png"/>
+  <img align="left" alt="theinfinox Telegram" width="30px" src="https://img.icons8.com/color/48/null/telegram-app--v1.png"/>
   
 </a>
 <a href="https://instagram.com/theinfinox">
   
-  <img align="left" alt="theinfinox Instagram" width="35px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/>
+  <img align="left" alt="theinfinox Instagram" width="30px" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/>
   
 </a>
 <a href="https://www.facebook.com/theinfinox.me">
   
- <img align="left" alt="theinfinox Facebook" width="35px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
+ <img align="left" alt="theinfinox Facebook" width="30px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
   
 </a>
 <a href="https://www.yotube.com/@theinfinox">
   
- <img align="left" alt="theinfinox YouTube" width="35px" src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ <img align="left" alt="theinfinox YouTube" width="30px" src="https://img.icons8.com/color/48/null/youtube-play.png"/>
   
 </a>
+
 <br>
 <br>
-<!--
-**theinfinox/theinfinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 📫 How to reach me: ...
-- 👯 I’m looking to collaborate on ...
-Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on IT Operations<br>
 - 🌱 I’m currently learning backend<br>
 - 🤔 I’m looking for help with APIs<br>
