@@ -21,7 +21,7 @@
 </a>
 <a href="https://www.facebook.com/theinfinox.me">
   
- <img src="https://img.icons8.com/color/48/null/facebook-new.png"/>
+ <img align="left" alt="theinfinox Instagram" width="22px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
   
 </a>
 <br>
