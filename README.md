@@ -66,6 +66,18 @@
   
 </a>
 
+<a href="https://dribbble.com/theinfinox">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/office/40/null/dribbble.png"/>
+  
+</a>
+
+<a href="https://dev.to/theinfinox">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-shadow-tal-revivo.png"/>
+  
+</a>
+
 <br>
 <br>
 
