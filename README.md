@@ -78,6 +78,13 @@
   
 </a>
 
+
+<a href="https://discordapp.com/users/727851348426489917">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/discord--v2.png"/>
+  
+</a>
+
 <br>
 <br>
 
