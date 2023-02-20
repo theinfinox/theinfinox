@@ -74,7 +74,7 @@
 
 <a href="https://dev.to/theinfinox">
   
- <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/null/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-bold-tal-revivo.png"/>
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-color-tal-revivo.png"/>
   
 </a>
 
