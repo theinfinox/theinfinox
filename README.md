@@ -34,7 +34,7 @@
  <img align="left" alt="theinfinox Facebook" width="30px" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
   
 </a>
-<a href="https://www.yotube.com/@theinfinox">
+<a href="https://www.youtube.com/@theinfinox">
   
  <img align="left" alt="theinfinox YouTube" width="30px" src="https://img.icons8.com/color/48/null/youtube-play.png"/>
   
