@@ -41,6 +41,25 @@
 </a>
 
 <br>
+<a href="https://500px.com/p/theinfinox">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/500px-new.png"/>
+  
+</a>
+
+<a href="https://www.reddit.com/user/theinfinox/">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/reddit.png"/>
+  
+</a>
+
+<a href="https://linktr.ee/theinfinox">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/linktree.png"/>
+  
+</a>
+
+<br>
 <br>
 
 - 🔭 I’m currently working on IT Operations<br>
