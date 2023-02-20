@@ -75,5 +75,10 @@
 - 💬 Ask me about technology<hr>
 
 <br>
+
+<a href="https://tryhackme.com/p/theinfinox">
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/theinfinox.png" alt="TryHackMe">
+  
+</a>
 
