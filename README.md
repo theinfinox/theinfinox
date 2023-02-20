@@ -39,6 +39,7 @@
  <img align="left" alt="theinfinox YouTube" width="30px" src="https://img.icons8.com/color/48/null/youtube-play.png"/>
   
 </a>
+<br>
 
 <br>
 <a href="https://500px.com/p/theinfinox">
@@ -56,6 +57,12 @@
 <a href="https://linktr.ee/theinfinox">
   
  <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/linktree.png"/>
+  
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/theinfinox">
+  
+ <img align="left" alt="theinfinox 500px" width="30px" src="https://img.icons8.com/color/48/null/GeeksforGeeks.png"/>
   
 </a>
 
