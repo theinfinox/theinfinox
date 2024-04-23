@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uL82vdtrIjlYL6uSkPstRUuwxUoq1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uL82vdtrIjlYL6uSkPstRUuwxUoq1" alt="GitRoll Profile Badge"/></a>
+
 <a href="https://app.daily.dev/theinfinox"><img src="https://api.daily.dev/devcards/c83945b395e44d2e9906e1b582f345b8.png?r=47s" width="300" alt="Govind SR's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Govind S R ( theinfinox )</h1>
